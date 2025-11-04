@@ -1,5 +1,5 @@
 # clone-tabnews
-Projeto onde estou aprendendo git e programação.
+Projeto onde estou aprendendo programação e git.
 Estou usando a versão node lts/hydrogen.
-Vou usar os frameworks next.js e React.
+Vou usar os frameworks next.js e react.
 
