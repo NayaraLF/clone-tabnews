@@ -4,7 +4,7 @@
   "description": "Projeto onde estou aprendendo git e programação.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "Nayara",
   "license": "MIT",
