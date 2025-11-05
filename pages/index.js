@@ -1,6 +1,5 @@
 function Home(){
-    return <h1>Obrigada por tudo
-    </h1>
+    return <h1>Meu primeiro site usando next e react!</h1>
     
 }
 
