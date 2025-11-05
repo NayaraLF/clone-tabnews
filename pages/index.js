@@ -1,5 +1,6 @@
 function Home(){
-    return <h1>Obrigada</h1>
+    return <h1>Obrigada por tudo
+    </h1>
     
 }
 
