@@ -9,7 +9,7 @@ A arquitetura do projeto é baseada em um conjunto de tecnologias modernas, abra
 ### Frontend
 
 - **React**: Biblioteca JavaScript para a construção de interfaces de usuário reativas e componentizadas.
-- **Next.js**: Framework sobre React que habilita funcionalidades como renderização no lado do servidor (SSR) e criação de APIs, otimizando a performance e o desenvolvimento. [8, 9, 10]
+- **Next.js**: Framework sobre React que habilita funcionalidades como renderização no lado do servidor (SSR) e criação de APIs, otimizando a performance e o desenvolvimento.
 
 ### Backend
 
@@ -17,7 +17,7 @@ A arquitetura do projeto é baseada em um conjunto de tecnologias modernas, abra
 
 ### Banco de Dados
 
-- **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional de código aberto, escolhido pela sua robustez e confiabilidade. [3, 5, 6]
+- **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional de código aberto, escolhido pela sua robustez e confiabilidade.
 
 ### Testes
 
@@ -29,5 +29,5 @@ A arquitetura do projeto é baseada em um conjunto de tecnologias modernas, abra
 
 ### Infraestrutura e Versionamento
 
-- **Docker**: Plataforma de containerização utilizada para criar, empacotar e distribuir a aplicação e seus serviços em ambientes isolados. [1, 2, 4]
+- **Docker**: Plataforma de containerização utilizada para criar, empacotar e distribuir a aplicação e seus serviços em ambientes isolados.
 - **Git**: Sistema de controle de versão distribuído para o gerenciamento do código-fonte.
